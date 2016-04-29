@@ -1,0 +1,22 @@
+[[http://www.avx.com/|AVX]] [[http://partbuilder.avx.com/p/pb/pdf/1027/C0GNP0-Dielectric.pdf|08051A221JAT4A]]
+
+  * condensator
+  * keramisch
+  * 220 pF
+  * 100 V
+  * SMD
+  * 0805 in
+  * 2012 mm
+
+{{:b:avx_0805_2012_mei.jpg?200|}}
+
+{{:b:c0gnp0-dielectric.pdf|}}
+
+----
+manuf	AVX
+model	08051A221JAT4A
+type	condensator keramisch
+capacity	220 pF
+voltage	100 V
+package	SMD 0805in 2012mm
+

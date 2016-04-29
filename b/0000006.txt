@@ -1,0 +1,15 @@
+[[http://na.industrial.panasonic.com/|Panasonic]] EEVFC1C100R
+
+  * Condensator
+  * Electrolytisch
+  * Elco
+  * 10 uF
+  * 16 V
+  * SMD
+  * B (maat)
+  * 4 mm (diameter)
+  * 5.4 (hoogte)
+
+{{:b:fc_series_5.5h_4.0d_sml.jpg?200|}}
+
+{{:b:eev-fc.pdf|}}

@@ -1,0 +1,12 @@
+[[http://www.ti.com/|Texas Instruments]] [[http://www.ti.com/product/tps76618|TPS76618D]]
+
+  * IC
+  * Regulator
+  * Single Output LDO, 250mA, Fixed(1.8V), Low Quiescent Current, Power Good (PG) Output
+  * LDO
+  * 1.8 V
+  * 250 mA
+
+{{:b:tps76618.jpg?200|}}
+
+{{:b:tps76618.pdf|}}

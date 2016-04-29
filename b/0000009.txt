@@ -1,0 +1,14 @@
+Philips 2322 157 33243 H
+
+  * Weerstand
+  * Metaalfilm
+  * 32K4 Ohm
+  * 1%
+  * 0.4 W
+  * Axial
+  * Through-hole
+  * 5.0 mm pitch
+  * 0.2 in pitch
+  * Size A, 0204
+
+{{:b:mrs16m25.pdf|}} (de Vishay variant)

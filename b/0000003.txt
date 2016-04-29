@@ -1,0 +1,11 @@
+Philips ([[http://www.nxp.com/|NXP]]) [[http://www.nxp.com/documents/data_sheet/HEF4094B.pdf|HEF4094BT]]
+
+  * IC
+  * 4000 Series
+  * 8-stage shift-and-store register
+  * SMD
+  * SO16 (SOT109-1)
+
+{{:b:hef4094b_so16_1_1.jpg?200|}}
+
+{{:b:hef4094b.pdf|}}

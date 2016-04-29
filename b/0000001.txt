@@ -1,0 +1,12 @@
+[[https://www.samtec.com/|Samtec]] [[https://wwws.samtec.com/technical-specifications/Default.aspx?SeriesMaster=ESQ&DisplayOption=Home|ESQ-132-14-G-D]]
+
+  * Header
+  * Female
+  * 64 pins
+  * 32 x 2 pins
+  * 2.54 x 2.54 mm pitch
+  * 0.10 x 0.10 in pitch
+  * 0.50 in long pins
+  * 12.7 mm long pins
+
+{{:b:esq-132-14-g-d.png?200|}}

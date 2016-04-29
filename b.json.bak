@@ -1,0 +1,46 @@
+{
+   "0000001" : {
+      "manufacturer" : "Samtec",
+      "model" : "ESQ-132-14-G-D"
+   },
+   "0000002" : {
+      "manufacturer" : "AVX",
+      "model" : "08051A221JAT4A"
+   },
+   "0000003" : {
+      "manufacturer" : "Philips",
+      "model" : "HEF4094BT"
+   },
+   "0000004" : {
+      "manufacturer" : "Philips",
+      "model" : "HEF40106BT"
+   },
+   "0000005" : {
+      "manufacturer" : "TI",
+      "model" : "TPS76618D"
+   },
+   "0000006" : {
+      "manufacturer" : "Panasonic",
+      "model" : "EEVFC1C100R"
+   },
+   "0000007" : {
+      "manufacturer" : "TI",
+      "model" : "SN75HVD08D"
+   },
+   "0000008" : {
+      "manufacturer" : "Vitramon",
+      "model" : "VP41BY103KBT"
+   },
+   "0000009" : {
+      "manufacturer" : "Philips",
+      "model" : "2322 157 33243 H"
+   },
+   "0000010" : {
+      "manufacturer" : "AVX",
+      "model" : "SA105C102MAA"
+   },
+   "0000011" : {
+   },
+
+   "_editor" : " vim: set sw=4 sts=4 si: "
+}

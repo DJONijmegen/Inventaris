@@ -1,0 +1,12 @@
+AVX SA105C102MAA
+
+  * Condensator
+  * Keramisch
+  * 1 nF
+  * 50 V
+  * 20 %
+
+  * SA10
+  * X7R
+
+{{:b:spingrd.pdf|}}

@@ -1,0 +1,10 @@
+[[http://www.ti.com/|Texas Instruments]] [[http://www.ti.com/product/SN75HVD08|SN75HVD08D]]
+
+  * IC
+  * SNx5HVD08 Wide Supply Range RS-485 Transceiver
+  * SMD
+  * SOIC 8
+
+{{:b:sn75hvd08.jpg?200|}} 
+
+{{:b:sn75hvd08.pdf|}}

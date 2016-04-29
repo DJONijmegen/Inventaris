@@ -1,0 +1,26 @@
+{
+   "avx" : {
+      "manufacturer" : "AVX",
+      "url" : "http://www.avx.com/"
+   },
+   "panasonic" : {
+      "manufacturer" : "Panasonic",
+      "url" : "http://na.industrial.panasonic.com/"
+   },
+   "philips" : {
+      "manufacturer" : "Philips",
+      "url" : "http://www.nxp.com/"
+   },
+   "samtec" : {
+      "manufacturer" : "Samtec",
+      "url" : "https://www.samtec.com/"
+   },
+   "ti" : {
+      "manufacturer" : "TI",
+      "url" : "http://www.ti.com/"
+   },
+   "vitramon" : {
+      "manufacturer" : "Vitramon"
+   },
+   "~editor" : " vim: set sw=4 sts=4 si: "
+}

@@ -1,0 +1,15 @@
+{
+    "manufacturer": "Samtec",
+    "model": "ESQ-132-14-G-D",
+    "type": "connector",
+    "pdf": "esq-132-14-g-d.png",
+    "connector": {
+	"type": "header",
+	"mount": "through-hole",
+	"gender": "female",
+	"pitch": [ 2.54, 2.54 ],
+	"pins": [ 2, 32 ],
+	"pins": 12.7,
+	"keywords": [ "stackable" ]
+    }
+}

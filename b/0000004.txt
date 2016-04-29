@@ -1,0 +1,11 @@
+Philips ([[http://www.nxp.com/|NXP]]) [[http://www.nxp.com/documents/data_sheet/HEF40106B.pdf|HEF40106BT]]
+
+  * IC
+  * 4000 Series
+  * Hex inverting Schmitt trigger
+  * SMD
+  * SO14
+
+{{:b:hef40106bt.jpg?200|}}
+
+{{:b:hef40106b.pdf|}}

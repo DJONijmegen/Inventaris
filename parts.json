@@ -1,0 +1,541 @@
+[{
+	"_id": {
+		"$oid": "563ced120e8831c0ee7a7849"
+	},
+	"category": "Condensator",
+	"subcategory": "Elco",
+	"capacity": 0.00022,
+	"voltage": 16.0,
+	"package": {
+		"pitch": 5.0,
+		"diameter": 10.0,
+		"height": 16.0
+	}
+},
+{
+	"_id": {
+		"$oid": "563ceef40e8831c0ee7a784a"
+	},
+	"category": "IC",
+	"subcategory": "Power Regulator",
+	"brand": "Maxim",
+	"model": "MAX724CCK",
+	"package": "TO-220-5"
+},
+{
+	"_id": {
+		"$oid": "563cef230e8831c0ee7a784b"
+	},
+	"category": "IC",
+	"subcategory": "Power Regulator",
+	"brand": "Linear",
+	"model": "LT1580CT7-2.5",
+	"package": "TO-220-7"
+},
+{
+	"_id": {
+		"$oid": "563cef3e0e8831c0ee7a784c"
+	},
+	"category": "IC",
+	"subcategory": "Power Regulator",
+	"brand": "Linear",
+	"model": "LT1086CM-3.3",
+	"package": "DD3",
+	"location": 18.0
+},
+{
+	"_id": {
+		"$oid": "563cef750e8831c0ee7a784d"
+	},
+	"category": "IC",
+	"subcategory": "Op-amp",
+	"brand": "Maxim",
+	"model": "MAX412CSA",
+	"package": "SO-8"
+},
+{
+	"_id": {
+		"$oid": "563cefb60e8831c0ee7a784f"
+	},
+	"category": "IC",
+	"subcategory": "7400",
+	"brand": "Philips",
+	"model": "74HCT04D",
+	"package": "SO-14"
+},
+{
+	"_id": {
+		"$oid": "563cf0990e8831c0ee7a7850"
+	},
+	"category": "IC",
+	"subcategory": "7400",
+	"brand": "TI",
+	"model": "74ALS153D",
+	"package": "SO-16"
+},
+{
+	"_id": {
+		"$oid": "563cf51f0e8831c0ee7a7851"
+	},
+	"category": "Resistor",
+	"subcategory": "Power",
+	"resistance": 8.2,
+	"tolerance": 10.0,
+	"power": 4.0,
+	"package": {
+		"style": "axial"
+	}
+},
+{
+	"_id": {
+		"$oid": "563cf5760e8831c0ee7a7852"
+	},
+	"category": "Diode",
+	"subcategory": "Zener",
+	"voltage": 8.5,
+	"current": 0.5,
+	"package": "DO-7",
+	"model": "1N3154",
+	"manufacturer": "Motorola"
+},
+{
+	"_id": {
+		"$oid": "563cf8b10e8831c0ee7a7853"
+	},
+	"category": "Diode",
+	"subcategory": "Germanium",
+	"model": "OA95"
+},
+{
+	"_id": {
+		"$oid": "563cfac80e8831c0ee7a7854"
+	},
+	"category": "Thyristor",
+	"subcategory": "Power",
+	"model": "BT102-300R"
+},
+{
+	"_id": {
+		"$oid": "563cfdeb0e8831c0ee7a7855"
+	},
+	"category": "Diode",
+	"subcategory": "Zener",
+	"voltage": 4.7,
+	"model": "BZY880-4V7"
+},
+{
+	"_id": {
+		"$oid": "563d008c0e8831c0ee7a7856"
+	},
+	"category": "Diode",
+	"subcategory": "Zener",
+	"voltage": 8.2,
+	"model": "BZY93C-8V2"
+},
+{
+	"_id": {
+		"$oid": "563d11150e8831c0ee7a7857"
+	},
+	"category": "Transistor",
+	"subcategory": "NPN",
+	"model": "2N1613"
+},
+{
+	"_id": {
+		"$oid": "563d11250e8831c0ee7a7858"
+	},
+	"category": "Transistor",
+	"subcategory": "PNP",
+	"model": "2N2905A",
+	"location": 27.0
+},
+{
+	"_id": {
+		"$oid": "563d29de0e8831c0ee7a7859"
+	},
+	"category": "IC",
+	"subcategory": "Converters",
+	"manufacturer": "NatSemi",
+	"model": "DAC0831LCN",
+	"description": "8-bit D/A Converter",
+	"package": "PDIP-20",
+	"location": 32.0
+},
+{
+	"_id": {
+		"$oid": "563d2a3a0e8831c0ee7a785a"
+	},
+	"category": "IC",
+	"subcategory": "7400",
+	"model": "PC74HCT181P",
+	"description": "4-bit ALU",
+	"package": "PDIP-24",
+	"location": 19.0
+},
+{
+	"_id": {
+		"$oid": "563d2a710e8831c0ee7a785b"
+	},
+	"category": "IC",
+	"subcategory": "Converters",
+	"manufacturer": "Harris",
+	"model": "ADC0804LCN",
+	"description": "8-bit A/D Converter",
+	"package": "PDIP-20",
+	"location": 31.0
+},
+{
+	"_id": {
+		"$oid": "563d2ac80e8831c0ee7a785c"
+	},
+	"category": "IC",
+	"subcategory": "Analog",
+	"model": "BA526",
+	"description": "6V 430mW Single Channel Power Amplifier",
+	"package": "SIP-9",
+	"location": 30.0
+},
+{
+	"_id": {
+		"$oid": "563d2b210e8831c0ee7a785d"
+	},
+	"category": "IC",
+	"subcategory": "4000",
+	"model": "HCF4016BE",
+	"description": "Quad Bilateral Switch",
+	"package": "PDIP-14",
+	"location": 29.0
+},
+{
+	"_id": {
+		"$oid": "563d2b630e8831c0ee7a785e"
+	},
+	"category": "IC",
+	"subcategory": "4000",
+	"model": "M14050BCP",
+	"description": "Hex Buffer",
+	"package": "PDIP-16",
+	"location": 28.0
+},
+{
+	"_id": {
+		"$oid": "563d2ba10e8831c0ee7a785f"
+	},
+	"category": "IC",
+	"subcategory": "4500",
+	"model": "HEF4511BP",
+	"description": "BCD to 7segment driver",
+	"package": "PDIP-16",
+	"location": 34.0
+},
+{
+	"_id": {
+		"$oid": "563d2c010e8831c0ee7a7860"
+	},
+	"category": "IC",
+	"subcategory": "Memory",
+	"model": "HM4334P-3",
+	"description": "1024x4 Static CMOS RAM",
+	"package": "PDIP-18",
+	"location": 33.0
+},
+{
+	"_id": {
+		"$oid": "563d2c320e8831c0ee7a7861"
+	},
+	"category": "IC",
+	"subcategory": "Memory",
+	"model": "M1-6514-5",
+	"description": "1024x4 Static RAM",
+	"package": "CDIP-18",
+	"location": 24.0,
+	"manufacturer": "Harris"
+},
+{
+	"_id": {
+		"$oid": "563d2c970e8831c0ee7a7862"
+	},
+	"category": "IC",
+	"subcategory": "Memory",
+	"manufacturer": "AMD",
+	"model": "AM9131DDC",
+	"description": "1024x4 Static RAM",
+	"package": "CDIP-22",
+	"location": 23.0
+},
+{
+	"_id": {
+		"$oid": "563d2cf50e8831c0ee7a7863"
+	},
+	"category": "IC",
+	"subcategory": "Converter",
+	"manufacturer": "Ferranti",
+	"model": "ZN429E-8",
+	"description": "R-2R D/A Converter",
+	"location": 25.0
+},
+{
+	"_id": {
+		"$oid": "563d2e430e8831c0ee7a7865"
+	},
+	"category": "IC",
+	"subcategory": "Converter",
+	"model": "UA1489APC",
+	"description": "Quad RS-232 Receiver",
+	"package": "PDIP-14"
+},
+{
+	"_id": {
+		"$oid": "563d2e600e8831c0ee7a7866"
+	},
+	"category": "IC",
+	"subcategory": "Converter",
+	"model": "UA1489APC",
+	"description": "Quad RS-232 Driver",
+	"package": "PDIP-14"
+},
+{
+	"_id": {
+		"$oid": "563d2e990e8831c0ee7a7867"
+	},
+	"category": "IC",
+	"subcategory": "Memory",
+	"manufacturer": "AMD",
+	"model": "AM9101",
+	"description": "256x4 Static RAM",
+	"package": "CDIP-22"
+},
+{
+	"_id": {
+		"$oid": "563d2ec30e8831c0ee7a7868"
+	},
+	"category": "IC",
+	"subcategory": "Memory",
+	"manufacturer": "Mostek",
+	"model": "MK4118",
+	"description": "1024x8 Static RAM",
+	"package": "PDIP-24"
+},
+{
+	"_id": {
+		"$oid": "563d2ef60e8831c0ee7a7869"
+	},
+	"category": "IC",
+	"subcategory": "Analog",
+	"model": "ULN2003",
+	"description": "7x darlington array",
+	"package": "PDIP-16"
+},
+{
+	"_id": {
+		"$oid": "563d2f410e8831c0ee7a786a"
+	},
+	"category": "IC",
+	"subcategory": "Logic",
+	"model": "SN74LS645N",
+	"description": "octal bus transceivers",
+	"package": "PDIP-20"
+},
+{
+	"_id": {
+		"$oid": "563d30020e8831c0ee7a786b"
+	},
+	"category": "IC",
+	"subcategory": "4500",
+	"manufacturer": "NatSemi",
+	"model": "MM14526BCN",
+	"description": "Presettable 4-bit Down Counter",
+	"package": "PDIP-16",
+	"location": 26.0
+},
+{
+	"_id": {
+		"$oid": "563d30300e8831c0ee7a786c"
+	},
+	"category": "IC",
+	"subcategory": "4000",
+	"model": "CD4040",
+	"description": "12 Stage Ripple Counter",
+	"package": "PDIP-16"
+},
+{
+	"_id": {
+		"$oid": "563d304b0e8831c0ee7a786d"
+	},
+	"category": "IC",
+	"subcategory": "4000",
+	"model": "MC14017",
+	"description": "Decade Counter",
+	"package": "PDIP-16"
+},
+{
+	"_id": {
+		"$oid": "568ffd71e1a9d1d4d2aaa0ff"
+	},
+	"manufacturer": "amd",
+	"model": "AM9080APC",
+	"location": 15.0,
+	"keywords": [
+		"8080"
+	],
+	"category": "IC",
+	"subcategory": "Microprocessor",
+	"package": "PDIP-40"
+},
+{
+	"_id": {
+		"$oid": "568fff95e1a9d1d4d2aaa100"
+	},
+	"manufacturer": "intel",
+	"model": "P8080A",
+	"location": 15.0,
+	"keywords": [
+		"8080"
+	],
+	"category": "IC",
+	"subcategory": "Microprocessor",
+	"package": "PDIP-40"
+},
+{
+	"_id": {
+		"$oid": "568fffd4e1a9d1d4d2aaa101"
+	},
+	"manufacturer": "natsemi",
+	"model": "INS8080AN",
+	"location": 15.0,
+	"keywords": [
+		"8080"
+	],
+	"category": "IC",
+	"subcategory": "Microprocessor",
+	"package": "PDIP-40"
+},
+{
+	"_id": {
+		"$oid": "568fffede1a9d1d4d2aaa102"
+	},
+	"manufacturer": "nec",
+	"model": "D8080AFC",
+	"location": 15.0,
+	"keywords": [
+		"8080"
+	],
+	"category": "IC",
+	"subcategory": "Microprocessor",
+	"package": "PDIP-40"
+},
+{
+	"_id": {
+		"$oid": "569012c0e1a9d1d4d2aaa103"
+	},
+	"category": "IC",
+	"subcategory": "Microcontroller",
+	"manufacturer": "Mitsubishi",
+	"model": "M5L8085AP",
+	"keywords": [
+		"8085"
+	],
+	"package": "PDIP-40",
+	"location": 20.0
+},
+{
+	"_id": {
+		"$oid": "569012c0e1a9d1d4d2aaa104"
+	},
+	"category": "IC",
+	"subcategory": "Microcontroller",
+	"manufacturer": "AMD",
+	"model": "P8085AH",
+	"keywords": [
+		"8085"
+	],
+	"package": "PDIP-40",
+	"location": 20.0
+},
+{
+	"_id": {
+		"$oid": "569012c0e1a9d1d4d2aaa105"
+	},
+	"category": "IC",
+	"subcategory": "Microcontroller",
+	"manufacturer": "NEC",
+	"model": "D8085AHD",
+	"keywords": [
+		"8085"
+	],
+	"package": "CDIP-40",
+	"location": 20.0
+},
+{
+	"_id": {
+		"$oid": "569012c0e1a9d1d4d2aaa106"
+	},
+	"category": "IC",
+	"subcategory": "Microcontroller",
+	"manufacturer": "OKI",
+	"model": "M80C85A",
+	"keywords": [
+		"8085"
+	],
+	"package": "PDIP-40",
+	"location": 20.0
+},
+{
+	"_id": {
+		"$oid": "569012c0e1a9d1d4d2aaa107"
+	},
+	"category": "IC",
+	"subcategory": "Microprocessor",
+	"manufacturer": "Mostek",
+	"model": "EF6809P",
+	"keywords": [
+		"6809"
+	],
+	"package": "PDIP-40",
+	"location": 21.0
+},
+{
+	"_id": {
+		"$oid": "56901572e1a9d1d4d2aaa108"
+	},
+	"category": "IC",
+	"subcategory": "Analog",
+	"model": "SAS560S",
+	"description": "4 channel touch sensor for antique TV",
+	"package": "PDIP-16",
+	"location": 22.0
+},
+{
+	"_id": {
+		"$oid": "56901572e1a9d1d4d2aaa109"
+	},
+	"category": "IC",
+	"subcategory": "Analog",
+	"model": "SAS570S",
+	"description": "4 channel touch sensor for antique TV",
+	"package": "PDIP-16",
+	"location": 22.0
+},
+{
+	"_id": {
+		"$oid": "569019e1e1a9d1d4d2aaa10a"
+	},
+	"category": "IC",
+	"subcategory": "Converter",
+	"manufacturer": "PS",
+	"model": "ZN429E-8",
+	"description": "R-2R D/A Converter",
+	"location": 25.0
+},
+{
+	"_id": {
+		"$oid": "569019eae1a9d1d4d2aaa10b"
+	},
+	"category": "IC",
+	"subcategory": "Converter",
+	"manufacturer": "GPS",
+	"model": "ZN429E-8",
+	"description": "R-2R D/A Converter",
+	"location": 25.0
+}]
+

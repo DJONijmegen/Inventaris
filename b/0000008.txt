@@ -1,0 +1,13 @@
+Vitramon VP41BY103KBT
+
+  * Condensator
+  * Keramisch
+  * 10 nF
+  * 100 V
+  * K (10% tolerantie)
+  * X7R
+  * Radial
+  * Through-hole
+  * 5.08 mm pitch
+  * 0.2 in pitch
+
